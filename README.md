@@ -21,3 +21,6 @@ A webcam captures hand motion, Python processes the image using MediaPipe to det
 ## Files
 - Python script → hand tracking and signal generation
 - Arduino code → servo control and actuation
+
+## Demo Video
+[Watch Demo]: https://drive.google.com/drive/folders/1ImXcnkaiK3UalOOUF89R0M4vEM9KCUiL?usp=sharing
